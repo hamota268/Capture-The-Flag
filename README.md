@@ -1,26 +1,18 @@
-CTF Writeups
+# CTF Writeups
 
-A collection of detailed writeups for Capture The Flag (CTF) challenges I've solved. This repository includes solutions from various competitions, covering categories like:
+📚 A collection of my Capture The Flag (CTF) challenge solutions and walkthroughs.
 
-    Web Exploitation
+## Categories
+- **Web Exploitation**
+- **Binary Exploitation (Pwn)**
+- **Cryptography**  
+- **Reverse Engineering**
+- **Forensics**
+- **Miscellaneous**
 
-    Binary Exploitation (Pwn)
+## Purpose
+- Document my cybersecurity learning journey
+- Share solutions with the CTF community
+- Create reference material for future challenges
 
-    Cryptography
-
-    Reverse Engineering
-
-    Forensics
-
-    Miscellaneous
-
-Each writeup explains the thought process, tools used, and step-by-step solutions.
-Why?
-
-    To document my learning journey in cybersecurity.
-
-    To help others who are stuck on similar challenges.
-
-    To serve as a reference for future CTF participants.
-
-🔍 Explore the writeups by event and category!
+### Structure
