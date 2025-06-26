@@ -4,7 +4,7 @@ Challenge Name: Admin Has The Power
 Category: Web
 Level: Easy
 Points: 50
-Challenge Link: http://wcamxwl32pue3e6m5p6v4ehxzg1r4nzy8yq4hnzk-web.cybertalentslabs.com/
+Challenge Link: https://cybertalents.com/challenges/web/admin-has-the-power
 Challenge Description
 
     "Administrators only have the power to see the flag. Can you be one?"
