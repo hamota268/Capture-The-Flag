@@ -28,4 +28,5 @@ This repository contains detailed writeups for CTF challenges I've solved across
 - Over The Wire
 - PicoCtf
 - The Python Challenge
+- VulnByDefault
 - Other security competitions
